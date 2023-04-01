@@ -6,9 +6,9 @@ Go package for parsing human readable data sizes.
 
 This package is inspired by [https://github.com/c2h5oh/datasize]()
 
-There are two differences
-    * one is that this package divides binary units and decimal units into separate constants.
-    * the other is that this package allows parsing of string which value is floating point number.
+There are two differences:
+1. one is that this package divides binary units and decimal units into separate constants.
+2. the other is that this package allows parsing of string which value is floating point number.
 
 So, this package is almost same except for the above two points.
 
